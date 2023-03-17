@@ -28,12 +28,12 @@ menor que o SMI (1000€).
 * Un construtor con todos os parámetros.
 <br>
 E os seguintes métodos:
-+ determinarSalarioReal(). Devolverá o salario real mensual do
+- determinarSalarioReal(): Devolverá o salario real mensual do
 empregado. O salario real será o salario base máis 30€ por cada trienio completo
 na granxa (3 anos completos desde que empezou a traballar na granxa).
 Podes empregar a clase Period e os seus métodos between() e getYears() para
 facer este cálculo.
-* Getters e setters.
++ Getters e setters.
 <br><br>
 
 
