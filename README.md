@@ -72,7 +72,7 @@ granxa. Na posición 0 os porcos; na 1, as vacas; na 2, as galiñas; na 3, os co
 <br>
 A clase disporá dos seguintes construtores:
 <br>
-- Un que recibe o nome, localización e encargado. O ArrayList cos empregados
++ Un que recibe o nome, localización e encargado. O ArrayList cos empregados
 inicialízase baleiro e o array co número de animais inicialízase a 0 en todas as súas
 posicións.
 + Outro que recibe todos os atributos.
