@@ -3,30 +3,40 @@
 Neste exercicio terás que modelar unha granxa, para iso, deberás crear as seguintes clases e métodos
 (e establecer as relacións entre elas que consideres oportuno):
 
-a. Un enumerado chamado TipoAnimal que pode tomar os valores: porcos, vacas,
+###a. Un enumerado chamado TipoAnimal que pode tomar os valores: porcos, vacas,
 galiñas, coellos ou ovellas.
-b. Unha interface Gandeiro cos seguintes métodos que non toman nin devolven
+<br>
+
+
+###b. Unha interface Gandeiro cos seguintes métodos que non toman nin devolven
 valores:
-▪ alimentarAnimais()
-▪ limparCortes()
-c. Unha clase Empregado (da que non se poden crear obxectos directamente) cos
++ alimentarAnimais()
+- limparCortes()
+<br>
+
+
+###c. Unha clase Empregado (da que non se poden crear obxectos directamente) cos
 seguintes atributos:
-▪ numEmpregado: un número enteiro co número de empregado. Este número
++ numEmpregado: un número enteiro co número de empregado. Este número
 deberá ser maior que 0.
-▪ nome: unha cadea co nome do empregado.
-▪ dataInicio: a data na que comezou a traballar na granxa. Debe
+* nome: unha cadea co nome do empregado.
+- dataInicio: a data na que comezou a traballar na granxa. Debe
 comprobarse que sexa anterior á data actual, se non o é poñerase no seu lugar a
 data de hoxe.
-▪ salarioBase: o salario base que cobra mensualmente. Non poderá ser
++ salarioBase: o salario base que cobra mensualmente. Non poderá ser
 menor que o SMI (1000€).
-Un construtor con todos os parámetros.
+* Un construtor con todos os parámetros.
+<br>
 E os seguintes métodos:
-▪ determinarSalarioReal(). Devolverá o salario real mensual do
++ determinarSalarioReal(). Devolverá o salario real mensual do
 empregado. O salario real será o salario base máis 30€ por cada trienio completo
 na granxa (3 anos completos desde que empezou a traballar na granxa).
 Podes empregar a clase Period e os seus métodos between() e getYears() para
 facer este cálculo.
-▪ Getters e setters.
+* Getters e setters.
+<br>
+
+
 d. Unha clase PersoalServizos, filla de Empregado cos seguintes atributos:
 ▪ posto: que será un carácter que poderá tomar os valores R (recepción) ou C
 (contabilidade). O seu valor por defecto será R.
