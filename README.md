@@ -92,4 +92,4 @@ coidadores de animais.
 A clase co método main xa se facilita no ficheiro POO.java. Crea todos os outros ficheiros para que
 funcione sen modificacións.
 
-##AQUI VA LA IMAGEN DEL CODIGO DEL MAIN
+##AQUI VA LA IMAGEN DEL CODIGO DEL MAIN.
