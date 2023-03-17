@@ -70,12 +70,14 @@ encargado da granxa.
 granxa. Na posición 0 os porcos; na 1, as vacas; na 2, as galiñas; na 3, os coellos e na
 4, as ovellas.
 
-<h4> A clase disporá dos seguintes construtores: </h4>
+<h4> A clase disporá dos seguintes construtores:</h4>
+
 - Un que recibe o nome, localización e encargado. 
 * O ArrayList cos empregados inicialízase baleiro e o array co número de animais inicialízase a 0 en todas as súas posicións.
 + Outro que recibe todos os atributos.
 
-<h4> E dos seguintes métodos: </h4>
+<h4> E dos seguintes métodos:</h4>
+
 - Getters para todos os atributos.
 * Setters para o nome, localización e encargado.
 + engadirAnimal(TipoAnimal t) engade un animal dese tipo,
