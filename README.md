@@ -3,19 +3,19 @@
 Neste exercicio terás que modelar unha granxa, para iso, deberás crear as seguintes clases e métodos
 (e establecer as relacións entre elas que consideres oportuno):
 
-##### Un enumerado chamado TipoAnimal que pode tomar os valores: porcos, vacas,
+## Un enumerado chamado TipoAnimal que pode tomar os valores: porcos, vacas,
 galiñas, coellos ou ovellas.
 <br><br>
 
 
-##### Unha interface Gandeiro cos seguintes métodos que non toman nin devolven
+## Unha interface Gandeiro cos seguintes métodos que non toman nin devolven
 valores:
 + alimentarAnimais()
 - limparCortes()
 <br><br>
 
 
-##### Unha clase Empregado (da que non se poden crear obxectos directamente) cos
+## Unha clase Empregado (da que non se poden crear obxectos directamente) cos
 seguintes atributos:
 + numEmpregado: un número enteiro co número de empregado. Este número
 deberá ser maior que 0.
@@ -38,14 +38,14 @@ facer este cálculo.
 
 
 
-##### Unha clase PersoalServizos, filla de Empregado cos seguintes atributos:
+## Unha clase PersoalServizos, filla de Empregado cos seguintes atributos:
 + posto: que será un carácter que poderá tomar os valores R (recepción) ou C
 (contabilidade). O seu valor por defecto será R.
 <br>
 <br>
 
 
-##### Unha clase CoidadorAnimais, filla de Empregado e que será tamén Gandeiro, que
+## Unha clase CoidadorAnimais, filla de Empregado e que será tamén Gandeiro, que
 terá os seguintes atributos:
 + tipoAnimalExperto: co tipo de animais nos que é experto este
 empregado. Debe utilizarse o enumerado TipoAnimal indicado anteriormente.
@@ -60,7 +60,7 @@ de animais será o indicado polo seu tipoAnimalExperto).
 <br>
 
 
-##### Unha clase Granxa cos seguintes atributos:
+## Unha clase Granxa cos seguintes atributos:
 + nome: o nome da granxa
 * localización: a vila na que está situada a granxa.
 - encargado: obxecto de tipo Empregado que indica que empregado é o
