@@ -25,8 +25,8 @@ data de hoxe.
 menor que o SMI (1000€).
 * Un construtor con todos os parámetros.
 <br>
-E os seguintes métodos:
-<br>
+#####E os seguintes métodos:
+
 - determinarSalarioReal(): Devolverá o salario real mensual do
 empregado. O salario real será o salario base máis 30€ por cada trienio completo
 na granxa (3 anos completos desde que empezou a traballar na granxa).
