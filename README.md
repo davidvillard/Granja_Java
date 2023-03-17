@@ -71,6 +71,7 @@ granxa. Na posición 0 os porcos; na 1, as vacas; na 2, as galiñas; na 3, os co
 4, as ovellas.
 <br>
 A clase disporá dos seguintes construtores:
+<br>
 - Un que recibe o nome, localización e encargado. O ArrayList cos empregados
 inicialízase baleiro e o array co número de animais inicialízase a 0 en todas as súas
 posicións.
