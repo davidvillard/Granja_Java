@@ -8,8 +8,7 @@ porcos, vacas, galiñas, coellos ou ovellas.
 <br><br>
 
 
-## Unha interface Gandeiro cos seguintes métodos que non toman nin devolven
-valores:
+## Unha interface Gandeiro cos seguintes métodos que non toman nin devolven valores:
 + alimentarAnimais()
 - limparCortes()
 <br><br>
@@ -39,14 +38,15 @@ facer este cálculo.
 
 
 ## Unha clase PersoalServizos, filla de Empregado cos seguintes atributos:
+
 + posto: que será un carácter que poderá tomar os valores R (recepción) ou C
 (contabilidade). O seu valor por defecto será R.
 <br>
 <br>
 
 
-## Unha clase CoidadorAnimais, filla de Empregado e que será tamén Gandeiro, que
-terá os seguintes atributos:
+## Unha clase CoidadorAnimais, filla de Empregado e que será tamén Gandeiro, que terá os seguintes atributos:
+
 + tipoAnimalExperto: co tipo de animais nos que é experto este
 empregado. Debe utilizarse o enumerado TipoAnimal indicado anteriormente.
 O salario real dun coidador calcularase coma o dun empregado xenérico pero engadiráselle
