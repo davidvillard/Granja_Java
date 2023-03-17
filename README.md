@@ -69,13 +69,13 @@ encargado da granxa.
 * numAnimais: é un array que almacena o número de animais que hai na
 granxa. Na posición 0 os porcos; na 1, as vacas; na 2, as galiñas; na 3, os coellos e na
 4, as ovellas.
-<br>
-A clase disporá dos seguintes construtores:
+
+##### A clase disporá dos seguintes construtores:
 - Un que recibe o nome, localización e encargado. 
 * O ArrayList cos empregados inicialízase baleiro e o array co número de animais inicialízase a 0 en todas as súas posicións.
 + Outro que recibe todos os atributos.
 <br>
-E dos seguintes métodos:
+#####E dos seguintes métodos:
 - Getters para todos os atributos.
 * Setters para o nome, localización e encargado.
 + engadirAnimal(TipoAnimal t) engade un animal dese tipo,
