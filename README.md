@@ -24,7 +24,7 @@ data de hoxe.
 + salarioBase: o salario base que cobra mensualmente. Non poderá ser
 menor que o SMI (1000€).
 * Un construtor con todos os parámetros.
-<br>
+
 ##### E os seguintes métodos:
 
 - determinarSalarioReal(): Devolverá o salario real mensual do
