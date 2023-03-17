@@ -26,8 +26,8 @@ menor que o SMI (1000€).
 * Un construtor con todos os parámetros.
 <br>
 E os seguintes métodos:
-<br>
-+ determinarSalarioReal(): Devolverá o salario real mensual do
+
+- determinarSalarioReal(): Devolverá o salario real mensual do
 empregado. O salario real será o salario base máis 30€ por cada trienio completo
 na granxa (3 anos completos desde que empezou a traballar na granxa).
 Podes empregar a clase Period e os seus métodos between() e getYears() para
@@ -70,11 +70,11 @@ encargado da granxa.
 granxa. Na posición 0 os porcos; na 1, as vacas; na 2, as galiñas; na 3, os coellos e na
 4, as ovellas.
 
-A clase disporá dos seguintes construtores:
+#####A clase disporá dos seguintes construtores:
 - Un que recibe o nome, localización e encargado. 
 * O ArrayList cos empregados inicialízase baleiro e o array co número de animais inicialízase a 0 en todas as súas posicións.
 + Outro que recibe todos os atributos.
-<br>
+
 #####E dos seguintes métodos:
 - Getters para todos os atributos.
 * Setters para o nome, localización e encargado.
@@ -88,25 +88,7 @@ granxa.
 empregados da granxa. Se coidadores é true, devolve unicamente o número de
 coidadores de animais.
 * toString() que amosará os datos da granxa da seguinte maneira:
-<br>
-- Un que recibe o nome, localización e encargado. O ArrayList cos empregados
-inicialízase baleiro e o array co número de animais inicialízase a 0 en todas as súas
-posicións.
-+ Outro que recibe todos os atributos.
-<br>
-E dos seguintes métodos:
-* Getters para todos os atributos.
-- Setters para o nome, localización e encargado.
-+ engadirAnimal(TipoAnimal t) engade un animal dese tipo,
-incrementando o seu número na posición do array numAnimais correspondente.
-* engadirEmpregado(Empregado e) recibe un empregado e o engade ao
-ArrayList.
-- getNumeroAnimais() devolve o número total de animais que hai na
-granxa.
-+ getNumeroEmpregados(boolean coidadores) devolve o número de
-empregados da granxa. Se coidadores é true, devolve unicamente o número de
-coidadores de animais.
-* toString() que amosará os datos da granxa da seguinte maneira:
+
 
 ## AQUI VA LA IMAGEN
 
