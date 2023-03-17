@@ -25,7 +25,7 @@ data de hoxe.
 menor que o SMI (1000€).
 * Un construtor con todos os parámetros.
 
-<h3> E os seguintes métodos:</h3>
+<h4> E os seguintes métodos:</h4>
 
 - determinarSalarioReal(): Devolverá o salario real mensual do
 empregado. O salario real será o salario base máis 30€ por cada trienio completo
@@ -70,12 +70,12 @@ encargado da granxa.
 granxa. Na posición 0 os porcos; na 1, as vacas; na 2, as galiñas; na 3, os coellos e na
 4, as ovellas.
 
-#####A clase disporá dos seguintes construtores:
+<h4> A clase disporá dos seguintes construtores: </h4>
 - Un que recibe o nome, localización e encargado. 
 * O ArrayList cos empregados inicialízase baleiro e o array co número de animais inicialízase a 0 en todas as súas posicións.
 + Outro que recibe todos os atributos.
 
-#####E dos seguintes métodos:
+<h4> E dos seguintes métodos: </h4>
 - Getters para todos os atributos.
 * Setters para o nome, localización e encargado.
 + engadirAnimal(TipoAnimal t) engade un animal dese tipo,
