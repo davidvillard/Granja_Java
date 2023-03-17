@@ -25,7 +25,7 @@ data de hoxe.
 menor que o SMI (1000€).
 * Un construtor con todos os parámetros.
 
-##### E os seguintes métodos:
+<h3> E os seguintes métodos:</h3>
 
 - determinarSalarioReal(): Devolverá o salario real mensual do
 empregado. O salario real será o salario base máis 30€ por cada trienio completo
