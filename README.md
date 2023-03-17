@@ -72,14 +72,14 @@ granxa. Na posición 0 os porcos; na 1, as vacas; na 2, as galiñas; na 3, os co
 <br>
 A clase disporá dos seguintes construtores:
 <br>
-+ Un que recibe o nome, localización e encargado. O ArrayList cos empregados
+- Un que recibe o nome, localización e encargado. O ArrayList cos empregados
 inicialízase baleiro e o array co número de animais inicialízase a 0 en todas as súas
 posicións.
 + Outro que recibe todos os atributos.
 <br>
 E dos seguintes métodos:
-* Getters para todos os atributos.
-- Setters para o nome, localización e encargado.
+- Getters para todos os atributos.
+* Setters para o nome, localización e encargado.
 + engadirAnimal(TipoAnimal t) engade un animal dese tipo,
 incrementando o seu número na posición do array numAnimais correspondente.
 * engadirEmpregado(Empregado e) recibe un empregado e o engade ao
@@ -110,9 +110,9 @@ empregados da granxa. Se coidadores é true, devolve unicamente o número de
 coidadores de animais.
 * toString() que amosará os datos da granxa da seguinte maneira:
 
-##AQUI VA LA IMAGEN
+## AQUI VA LA IMAGEN
 
 A clase co método main xa se facilita no ficheiro POO.java. Crea todos os outros ficheiros para que
 funcione sen modificacións.
 
-##AQUI VA EL CODIGO DEL MAIN.
+## AQUI VA EL CODIGO DEL MAIN.
