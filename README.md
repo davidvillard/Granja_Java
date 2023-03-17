@@ -91,10 +91,10 @@ empregados da granxa. Se coidadores é true, devolve unicamente o número de
 coidadores de animais.
 * toString() que amosará os datos da granxa da seguinte maneira:
 
+![OUTPUT](./githuboutput.png)
 
-## AQUI VA LA IMAGEN
 
-A clase co método main xa se facilita no ficheiro POO.java. Crea todos os outros ficheiros para que
+## A clase co método main xa se facilita no ficheiro POO.java. Crea todos os outros ficheiros para que
 funcione sen modificacións.
 
 ## AQUI VA EL CODIGO DEL MAIN.
